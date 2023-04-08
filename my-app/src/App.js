@@ -8,6 +8,10 @@ function App() {
 
 
       hi enkhuul
+
+
+
+      bi nymka bna
     </div>
   );
 }
