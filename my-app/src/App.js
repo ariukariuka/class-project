@@ -16,12 +16,6 @@ function App() {
       temka
 
 
-
-
-
-      
-
-      
     </div>
   );
 }
