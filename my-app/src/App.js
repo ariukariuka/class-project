@@ -12,6 +12,8 @@ function App() {
 
 
       bi nymka bna
+
+      buudald baina unseltsey kkk
     </div>
   );
 }
