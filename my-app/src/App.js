@@ -4,16 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      hi
+      buudalnii gadaa bn holdoj vhlee atsaa
 
-
-      hi enkhuul
-
-
-
-      bi nymka bna
-
-      buudald baina unseltsey kkk
     </div>
   );
 }
