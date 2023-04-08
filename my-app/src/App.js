@@ -19,10 +19,8 @@ function App() {
 
 
 
-      hi
 
-      butsaah
-      
+      blue
     </div>
   );
 }
