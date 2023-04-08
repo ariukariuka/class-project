@@ -7,7 +7,7 @@ function App() {
       hi
 
 
-      
+      hi enkhuul
     </div>
   );
 }
